@@ -1,0 +1,1 @@
+Comecei o curso para aprender mais sobre programação e expandir minha área de atuação, então nas primeiras aulas do curso foi desenvolvido uma página que poderia servir como portfólio, com o objetivo de aprender os comandos básicos de HTML e CSS, além de aprender a utilizar o Github e o Figma.
